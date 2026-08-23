@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/ccote-3/dbt-shared-macros.git"
+    revision: main

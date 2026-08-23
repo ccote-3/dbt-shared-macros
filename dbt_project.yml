@@ -1,5 +1,5 @@
-name 'dbt_shared_macros'
-version '1.0.0'
-config-version 2
+name: 'dbt_shared_macros'
+version: '1.0.0'
+config-version: 2
 
-macro-paths [macros]
+macro-paths: ["macros"]
